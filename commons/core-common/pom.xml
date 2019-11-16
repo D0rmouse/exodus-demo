@@ -9,7 +9,7 @@
     <parent>
         <groupId>exodus-demo.commons</groupId>
         <artifactId>exodus-demo-commons</artifactId>
-        <version>${revision}</version>
+        <version>0.0.1-SNAPSHOT</version>
     </parent>
 
 </project>
