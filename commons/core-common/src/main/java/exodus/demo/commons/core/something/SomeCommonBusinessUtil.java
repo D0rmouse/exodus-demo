@@ -1,4 +1,4 @@
-package exodus.demo.commons.core;
+package exodus.demo.commons.core.something;
 
 public class SomeCommonBusinessUtil {
 
