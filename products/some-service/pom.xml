@@ -9,7 +9,7 @@
     <parent>
         <groupId>exodus-demo.products</groupId>
         <artifactId>exodus-demo-products</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>${revision}</version>
     </parent>
 
     <modules>

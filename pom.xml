@@ -6,10 +6,11 @@
     <groupId>exodus-demo</groupId>
     <artifactId>exodus-demo</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>${revision}</version>
 
     <properties>
-        <revision>0.0.1-SNAPSHOT</revision>
+        <build.revision>SNAPSHOT</build.revision>
+        <revision>0.0.1</revision>
 
         <spring-boot.version>2.1.6.RELEASE</spring-boot.version>
         <spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
